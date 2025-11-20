@@ -22,8 +22,7 @@ Welcome to my GitHub profile! I'm a cybersecurity student and multi‑stack deve
 
 ## 📫 Contact Me
 
-* **Email:** [aminezakhama@example.com](mailto:aminezakhama@example.com)
-* **LinkedIn:** linkedin.com/in/aminezakhama
-* **Portfolio:** (Coming soon)
+* **Email:** [ahmed.amine.zakhama@gmail.com](mailto:ahmed.amine.zakhama@gmail.com)
+* **Phone:** +21621118871
 
 Thanks for stopping by! 😊
