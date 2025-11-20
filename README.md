@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Amine 👋
 
-<!--
-**AmineZakhama/AmineZakhama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a cybersecurity student and multi‑stack developer (web & mobile) passionate about building clean, functional, and impactful digital experiences.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Cybersecurity student at **Polytechnique Monastir**
+* 💻 MERN stack developer — built internal tools and web apps during my internship at ASPISS
+* 🛠️ Strong in **Python**, with good skills in data manipulation (Pandas, analysis workflows); also experienced in **C/C++** and **Java**
+* 🌍 Fluent in **Arabic**, **English**, and **French**
+* 🤝 Actively working on external relations & partnerships for student organizations
+
+## ⚙️ Tech Stack
+
+**Frontend:** HTML, CSS, Bootstrap, JavaScript, React, **Next.js**, **Angular**
+
+**Backend:** Node.js, Express.js, **Spring Boot**
+
+**Database:** MongoDB, MySQL
+
+**Tools:** Git, GitHub, Figma, Postman, **Docker**, **Google Cloud**
+
+## 📫 Contact Me
+
+* **Email:** [aminezakhama@example.com](mailto:aminezakhama@example.com)
+* **LinkedIn:** linkedin.com/in/aminezakhama
+* **Portfolio:** (Coming soon)
+
+Thanks for stopping by! 😊
